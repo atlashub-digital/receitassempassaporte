@@ -1,0 +1,77 @@
+{
+  "version": "0.1",
+  "project": "receitassempassaporte",
+  "guide_id": "guia-gratuito-7-jantares-do-mundo",
+  "source_type": "derived_from_original_recipe_masters",
+  "status": "draft",
+  "licensing": "original-draft",
+  "free": true,
+  "chapters": [
+    {
+      "day": 1,
+      "recipe_ref": "it-pasta-ao-pomodoro",
+      "destination": "Itália",
+      "lead": "Uma panela de água, tomates e folhas de manjericão: poucos ingredientes mostram como uma refeição simples pode ganhar caráter quando os passos são organizados.",
+      "story": "Nosso primeiro destino não pede equipamentos especiais. O desafio é tratar a massa e o molho como duas partes do mesmo prato: o molho deve estar pronto para receber o macarrão, e uma pequena quantidade da água do cozimento ajuda tudo a se unir.",
+      "variation": "Se não houver manjericão fresco, finalize com salsa e uma pitada discreta de orégano; é uma adaptação, não o mesmo sabor.",
+      "prep": "Separe um pouco do tomate e da cebola comprados esta semana para outros dias. Faça uma foto da massa e anote o ponto que mais agradou."
+    },
+    {
+      "day": 2,
+      "recipe_ref": "br-moqueca-de-peixe",
+      "destination": "Brasil",
+      "lead": "A cor dos pimentões, o aroma do leite de coco e o dendê conduzem-nos a uma interpretação caseira da cozinha baiana.",
+      "story": "Moqueca é mais do que peixe num molho: é um prato com variantes regionais, técnicas próprias e forte ligação cultural. Nesta versão introdutória, os ingredientes são colocados em camadas para cozinhar de forma suave, sem desfazer o peixe.",
+      "variation": "Para uma alternativa sem peixe, escolha uma receita vegetariana específica desenvolvida para isso; trocar simplesmente o peixe por qualquer vegetal altera o tempo e a lógica do prato.",
+      "prep": "O peixe deve manter-se refrigerado até o momento de preparo. Confira espinhas e eventual alergia a peixe antes de servir."
+    },
+    {
+      "day": 3,
+      "recipe_ref": "wd-dhal-lentilhas",
+      "destination": "Índia",
+      "lead": "Lentilhas vermelhas, tomate e especiarias criam um jantar acolhedor de poucos utensílios.",
+      "story": "A palavra dal pode designar leguminosas e diferentes preparações delas em diversas regiões do sul da Ásia. A nossa versão é uma aproximação doméstica, centrada na textura cremosa que as lentilhas vermelhas adquirem ao cozinhar.",
+      "variation": "Não encontrou lentilhas vermelhas? Lentilhas comuns necessitam de mais tempo e podem manter a forma; adapte água e duração em vez de usar a mesma previsão de minutos.",
+      "prep": "Reserve cominho e cúrcuma para o dia do tajine: são ingredientes que podem render em várias receitas, sem ocupar a despensa com compras desnecessárias."
+    },
+    {
+      "day": 4,
+      "recipe_ref": "jp-ramen-frango-cogumelos",
+      "destination": "Japão",
+      "lead": "Uma tigela fumegante com macarrão, caldo aromático e vegetais transforma uma noite comum num pequeno ritual.",
+      "story": "Os ramen tradicionais podem exigir muitas horas de preparação e variar imensamente conforme a região e o estilo. Aqui propomos um caminho acessível de entrada: um caldo leve, um componente proteico, vegetais e noodles cozinhados separadamente.",
+      "variation": "A massa para ramen pode ser substituída por outro noodle de trigo indicado para sopa, ajustando o cozimento segundo a embalagem. Essa troca não reproduz a textura original.",
+      "prep": "A quantidade de shoyu muda bastante de marca para marca. Acrescente pouco, prove e só então ajuste."
+    },
+    {
+      "day": 5,
+      "recipe_ref": "wd-tajine-frango-limao",
+      "destination": "Marrocos",
+      "lead": "Especiarias quentes, frango, limão e azeitonas convidam a uma viagem pelo Magrebe.",
+      "story": "O tajine é também o nome de um utensílio com tampa cónica utilizado em certas preparações. Para quem ainda não tem o recipiente, esta versão de panela funda explora a combinação de ingredientes, mas não pretende replicar fielmente todas as técnicas regionais.",
+      "variation": "Se achar o limão em rodelas demasiado intenso, reduza a quantidade na finalização. O limão preservado tradicional possui um resultado diferente.",
+      "prep": "Sirva com o cuscuz de sêmola que aparecerá noutra receita do portal, ou escolha arroz simples para aproveitar ingredientes que já existem em casa."
+    },
+    {
+      "day": 6,
+      "recipe_ref": "wd-tacos-feijao-milho",
+      "destination": "México",
+      "lead": "Tortilhas quentes, feijão, milho e uma cobertura fresca para partilhar em família.",
+      "story": "Tacos são uma família muito diversa de preparações mexicanas. Para este jantar escolhemos uma interpretação vegetal, fácil de montar à mesa e prática para adaptar à quantidade de pessoas.",
+      "variation": "As tortilhas de milho podem variar em sabor e textura; aqueça-as antes de rechear. Se utilizar tortilha de trigo, indique esse alergénio.",
+      "prep": "Deixe as coberturas separadas para que cada pessoa monte o próprio taco. Guarde os alimentos perecíveis refrigerados até servir."
+    },
+    {
+      "day": 7,
+      "recipe_ref": "wd-shakshuka",
+      "destination": "Norte da África e Oriente Médio",
+      "lead": "Uma frigideira funda reúne tomate, pimentão, especiarias e ovos para terminar a semana com sabor.",
+      "story": "A shakshuka circula em diferentes tradições culinárias do norte de África e do Oriente Médio. As versões mudam de país para país e de casa para casa. A nossa apresenta uma base de tomate e vegetais, com ovos cozidos no molho.",
+      "variation": "Para um jantar mais completo, sirva com pão ou uma salada de folhas. Pessoas com alergia a ovo devem procurar uma receita desenvolvida especificamente sem ovos.",
+      "prep": "Registe os três pratos de que mais gostou. Eles serão o ponto de partida para repetir a viagem noutra semana, sem cozinhar tudo de novo."
+    }
+  ],
+  "intro": "## Antes de começar: sete destinos, uma cozinha possível\n\nEste guia gratuito foi concebido para quem gosta de descobrir sabores do mundo mas quer cozinhar com ingredientes relativamente acessíveis no Brasil. Não é uma aula de autenticidade gastronómica: as preparações são versões caseiras, explicitamente identificadas como inspiradas em tradições culinárias de diferentes lugares. Cada destino é um convite para descobrir mais sobre a cultura alimentar, sem reduzir países inteiros a um único prato.\n\n### Como usar este guia\n\nEscolha a ordem que melhor se encaixa no seu tempo. Cada dia inclui uma receita completa, notas para adaptar ingredientes e um pequeno passo de organização. Leia sempre todos os ingredientes e o modo de preparo antes de começar. As quantidades e tempos são estimativas editoriais, ainda sujeitas a teste de cozinha antes da publicação final.\n\n**Não é necessário cozinhar durante sete dias consecutivos.** Pode começar pela massa italiana e guardar a moqueca para o fim de semana. O objetivo é descobrir, experimentar e aprender.\n\n### O que convém ter à mão\n\nUma faca bem afiada, uma tábua estável, uma frigideira grande, uma panela com tampa, uma colher de pau, uma peneira e recipientes para guardar alimentos são suficientes para grande parte das receitas. Um termómetro culinário ajuda em preparações de carne e peixe.\n\n### Compras com menos desperdício\n\nAo longo do guia, cebola, alho, tomate, arroz e algumas especiarias aparecem em mais de uma preparação. Faça primeiro a leitura de todas as receitas e consolide as quantidades antes de ir ao mercado. Deixe peixe, aves e outros perecíveis para aquisição em data próxima ao preparo; respeite refrigeração e validade.\n\n### Cuidados essenciais\n\nSepare utensílios que tocaram carne ou peixe cru dos usados para servir comida pronta. Não lave frango cru na pia. Refrigere sobras e arroz cozido prontamente. Nas preparações de peixe, frango e ovos, siga orientações seguras de cozedura e, se houver dúvida, utilize termómetro. As alergias precisam ser verificadas também nos rótulos e nos utensílios partilhados.\n\n---",
+  "ending": "## Depois da viagem: a sua própria rota\n\nSete jantares não esgotam nenhuma destas cozinhas. Cada país tem muitas tradições, ingredientes e pessoas que as mantêm vivas. Este guia é uma porta de entrada: procure conhecer histórias dos pratos, autores locais e versões regionais, e mantenha a curiosidade.\n\n### Faça três anotações\n\n1. **O meu prato favorito foi:** anote a receita e porquê.\n2. **O ingrediente que descobri:** registe o que sobrou e como pode ser usado noutra preparação.\n3. **A próxima viagem na minha cozinha:** escolha um novo país ou técnica para explorar.\n\n### Continue gratuitamente\n\nNo portal **Receitas sem Passaporte**, a biblioteca aberta reunirá receitas pesquisáveis por destino, tempo de preparo e ingrediente, além de dicas e vídeos. Os cursos e e-books premium serão opções para quem quiser aprofundar uma técnica — o conteúdo gratuito continuará a ter valor próprio.\n\n### Créditos e transparência editorial\n\nTexto original preparado para Receitas sem Passaporte, com as sete receitas provenientes dos seus próprios masters editoriais. Estas receitas são adaptações caseiras, não certificações de autenticidade cultural. A validação de técnicas, segurança alimentar, fotografias e revisão final são exigidas antes de publicação. Nenhum texto, imagem ou vídeo do curso de sushi de terceiros foi reutilizado.\n\n**Estado deste pack:** DRAFT / PREVIEW, não publicado.",
+  "guide_markdown_path": "content/v1/guides/7-jantares-do-mundo.md"
+}
