@@ -66,10 +66,10 @@ Nosso primeiro destino não pede equipamentos especiais. O desafio é tratar a m
 - Queijo parmesão para servir (opcional)
 
 ### Modo de preparo
-1. Coloque uma panela grande de água no fogo; salgue quando levantar fervura.
+1. Coloque uma panela grande de água no fogo; adicione sal quando levantar fervura.
 2. Aqueça o azeite numa frigideira, doure levemente o alho sem o queimar e refogue a cebola, se utilizar.
 3. Adicione o tomate e cozinhe em fogo médio-baixo por 15 minutos, até o molho engrossar. Tempere.
-4. Cozinhe a massa seguindo o tempo da embalagem e reserve uma chávena da água do cozimento.
+4. Cozinhe a massa seguindo o tempo da embalagem e reserve uma xícara da água do cozimento.
 5. Misture a massa escorrida com o molho, junte pequenas quantidades da água reservada até envolver bem e finalize com manjericão.
 
 ### Dicas e adaptações
@@ -290,7 +290,7 @@ Tacos são uma família muito diversa de preparações mexicanas. Para este jant
 ### Modo de preparo
 1. Aqueça óleo numa frigideira; refogue metade da cebola por 2 minutos.
 2. Junte feijão, milho e cominho; aqueça bem por 5 minutos e ajuste sal.
-3. Misture o tomate com a cebola restante, o sumo de limão e coentro para fazer cobertura fresca.
+3. Misture o tomate com a cebola restante, o suco de limão e coentro para fazer cobertura fresca.
 4. Aqueça as tortilhas conforme as instruções da embalagem, sem as deixar secar.
 5. Recheie com feijão e milho, distribua tomate e fatias de abacate. Sirva de imediato.
 
@@ -334,7 +334,7 @@ A shakshuka circula em diferentes tradições culinárias do norte de África e 
 1. Aqueça azeite numa frigideira funda e refogue cebola e pimentão por 6 minutos.
 2. Acrescente alho, páprica e cominho; mexa por 30 segundos.
 3. Junte os tomates, tempere e cozinhe por 10 a 12 minutos até o molho engrossar.
-4. Abra quatro cavidades e quebre um ovo em cada uma. Tampe e cozinhe em fogo brando até claras e gemas estarem firmes, se seguir a opção mais segura.
+4. Abra quatro cavidades e quebre um ovo em cada uma. Tampe e cozinhe em fogo baixo até claras e gemas estarem firmes, se seguir a opção mais segura.
 5. Finalize com salsa e sirva com pão ou outro acompanhamento.
 
 ### Dicas e adaptações
