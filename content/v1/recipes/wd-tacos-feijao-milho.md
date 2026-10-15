@@ -40,7 +40,7 @@ media_status: "pending"
 ## Modo de preparo
 1. Aqueça óleo numa frigideira; refogue metade da cebola por 2 minutos.
 2. Junte feijão, milho e cominho; aqueça bem por 5 minutos e ajuste sal.
-3. Misture o tomate com a cebola restante, o sumo de limão e coentro para fazer cobertura fresca.
+3. Misture o tomate com a cebola restante, o suco de limão e coentro para fazer cobertura fresca.
 4. Aqueça as tortilhas conforme as instruções da embalagem, sem as deixar secar.
 5. Recheie com feijão e milho, distribua tomate e fatias de abacate. Sirva de imediato.
 

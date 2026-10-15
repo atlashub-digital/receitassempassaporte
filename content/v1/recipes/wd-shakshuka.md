@@ -40,7 +40,7 @@ media_status: "pending"
 1. Aqueça azeite numa frigideira funda e refogue cebola e pimentão por 6 minutos.
 2. Acrescente alho, páprica e cominho; mexa por 30 segundos.
 3. Junte os tomates, tempere e cozinhe por 10 a 12 minutos até o molho engrossar.
-4. Abra quatro cavidades e quebre um ovo em cada uma. Tampe e cozinhe em fogo brando até claras e gemas estarem firmes, se seguir a opção mais segura.
+4. Abra quatro cavidades e quebre um ovo em cada uma. Tampe e cozinhe em fogo baixo até claras e gemas estarem firmes, se seguir a opção mais segura.
 5. Finalize com salsa e sirva com pão ou outro acompanhamento.
 
 ## Dicas e adaptações

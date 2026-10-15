@@ -37,10 +37,10 @@ media_status: "pending"
 - Cebolinha ou gergelim para finalizar (opcional)
 
 ## Modo de preparo
-1. Pressione o tofu entre folhas de papel de cozinha para retirar humidade; corte em cubos grandes.
+1. Pressione o tofu entre folhas de papel de cozinha para retirar umidade; corte em cubos grandes.
 2. Misture shoyu, água, açúcar, gengibre, alho e amido até dissolver.
 3. Aqueça óleo numa frigideira e doure o tofu em todos os lados, cerca de 8 a 10 minutos.
-4. Reduza o fogo, verta o molho e mexa cuidadosamente por 1 a 2 minutos até engrossar e envolver o tofu.
+4. Reduza o fogo, despeje o molho e mexa cuidadosamente por 1 a 2 minutos até engrossar e envolver o tofu.
 5. Finalize com cebolinha e sirva com arroz e vegetais.
 
 ## Dicas e adaptações

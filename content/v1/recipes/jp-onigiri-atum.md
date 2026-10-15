@@ -39,7 +39,7 @@ media_status: "pending"
 1. Lave o arroz em várias águas até a água ficar menos turva e escorra.
 2. Cozinhe com a água indicada em panela tampada ou arrozeira. Deixe descansar 10 minutos.
 3. Misture o atum escorrido com maionese, cebolinha e shoyu, se usar.
-4. Com as mãos limpas e levemente humedecidas em água salgada, coloque arroz morno na palma, faça uma cavidade e recheie com atum.
+4. Com as mãos limpas e levemente umedecidas em água salgada, coloque arroz morno na palma, faça uma cavidade e recheie com atum.
 5. Cubra com mais arroz e modele um triângulo compacto sem esmagar os grãos. Envolva parcialmente com nori e sirva.
 
 ## Dicas e adaptações
