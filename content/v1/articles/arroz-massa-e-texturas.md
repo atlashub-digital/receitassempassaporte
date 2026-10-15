@@ -19,9 +19,9 @@ Uma boa receita de arroz ou massa parece depender de um segredo, mas depende pri
 
 ## Arroz não é todo igual
 
-O arroz branco comum do dia a dia e o arroz japonês de grão curto absorvem água e libertam amido de maneiras diferentes. O arroz arbóreo do risoto é mexido enquanto recebe líquido aos poucos, justamente para criar uma textura cremosa. Por isso, uma proporção de água que funciona num arroz não deve ser aplicada indiscriminadamente a todos os tipos.
+O arroz branco comum do dia a dia e o arroz japonês de grão curto absorvem água e liberam amido de maneiras diferentes. O arroz arbóreo do risoto é mexido enquanto recebe líquido aos poucos, justamente para criar uma textura cremosa. Por isso, uma proporção de água que funciona num arroz não deve ser aplicada indiscriminadamente a todos os tipos.
 
-Para arroz branco, comece com a recomendação da embalagem. Durante o cozimento, evite abrir a tampa repetidamente; depois, deixe repousar alguns minutos e solte com um garfo. Para onigiri, por outro lado, a textura mais aderente do arroz de grão curto é desejável.
+Para arroz branco, comece com a recomendação da embalagem. Durante o cozimento, evite abrir a tampa repetidamente; depois, deixe reapoiar alguns minutos e solte com um garfo. Para onigiri, por outro lado, a textura mais aderente do arroz de grão curto é desejável.
 
 **Segurança importante:** arroz cozido continua a ser perecível. Não o deixe durante horas à temperatura ambiente; arrefeça prontamente, guarde refrigerado e reaqueça completamente quando apropriado.
 
@@ -33,7 +33,7 @@ Não existe obrigação de adicionar óleo à água. Mexer nos minutos iniciais 
 
 ## Vegetais: mais do que “moles ou crocantes”
 
-Cenoura em cubos grossos exige mais tempo do que tiras finas. Brócolis pode ficar tenro e verde vibrante se entrar perto do fim. Ao saltear vegetais, evite lotar a frigideira: quando há excesso de humidade, os alimentos cozinham no vapor em vez de dourarem.
+Cenoura em cubos grossos exige mais tempo do que tiras finas. Brócolis pode ficar tenro e verde vibrante se entrar perto do fim. Ao saltear vegetais, evite lotar a frigideira: quando há excesso de umidade, os alimentos cozinham no vapor em vez de dourarem.
 
 Para assar legumes, corte pedaços de dimensões semelhantes, distribua numa só camada e mexa a meio. Tempere no final se for necessário ajustar o sabor.
 

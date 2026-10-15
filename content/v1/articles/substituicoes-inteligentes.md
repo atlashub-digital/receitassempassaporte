@@ -19,7 +19,7 @@ Já aconteceu: encontra uma receita maravilhosa, mas um ingrediente custa demasi
 
 ## Identifique a função antes da troca
 
-Um ingrediente pode acrescentar **acidez** (limão, vinagre), **gordura** (azeite, manteiga), **humidade** (leite, caldo), **estrutura** (farinha, ovos), **aroma** (ervas, especiarias) ou **salinidade** (sal, molho de soja). Às vezes cumpre mais do que uma função.
+Um ingrediente pode acrescentar **acidez** (limão, vinagre), **gordura** (azeite, manteiga), **umidade** (leite, caldo), **estrutura** (farinha, ovos), **aroma** (ervas, especiarias) ou **salinidade** (sal, molho de soja). Às vezes cumpre mais do que uma função.
 
 Por isso, trocar creme de leite por água numa sopa pode resultar numa textura aceitável, mas não criará a mesma cremosidade; substituir farinha de trigo por farinha de arroz num pão fermentado altera a estrutura, não apenas o sabor.
 

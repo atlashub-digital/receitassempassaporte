@@ -17,31 +17,31 @@ review_required: true
 
 Um prato bonito precisa ser, antes de tudo, preparado com segurança. Cortar vegetais, lidar com ovos, conservar arroz e cozinhar frango são gestos comuns, mas merecem um conjunto simples de cuidados. A segurança alimentar não é uma nota de rodapé: faz parte da própria técnica.
 
-## Separa o cru do pronto
+## Separe o cru do pronto
 
-Lava as mãos antes de começar e depois de manipular carnes, aves, peixe ou ovos crus. Usa tábuas e utensílios separados — ou lava-os muito bem — antes de preparar alimentos que serão consumidos sem nova cozedura. Nunca reutilizes, sem limpeza, um prato onde esteve frango cru para receber comida pronta.
+Lave as mãos antes de começar e depois de manipular carnes, aves, peixe ou ovos crus. Use tábuas e utensílios separados — ou lava-os muito bem — antes de preparar alimentos que serão consumidos sem nova cozimento. Nunca reutilizes, sem limpeza, um prato onde esteve frango cru para receber comida pronta.
 
-Evita lavar frango e outras carnes em água corrente. Os salpicos podem transportar microrganismos para a bancada, utensílios e outros ingredientes.
+Evite lavar frango e outras carnes em água corrente. Os salpicos podem transportar microrganismos para a bancada, utensílios e outros ingredientes.
 
 ## Usa temperatura, não apenas aparência
 
 Um termómetro alimentar simples ajuda a verificar o centro da parte mais espessa. Como referências de orientação do FoodSafety.gov: aves devem chegar a **74 °C**, peixe normalmente a **63 °C** e pratos com ovos devem ser preparados até temperaturas seguras; ovos servidos diretamente devem ter clara e gema firmes. Estas referências devem ser conciliadas com regras brasileiras aplicáveis, a natureza da preparação e aconselhamento profissional.
 
-A cor da superfície, por si só, não garante cozedura uniforme. Produtos perecíveis não devem passar longos períodos na bancada.
+A cor da superfície, por si só, não garante cozimento uniforme. Produtos perecíveis não devem passar longos períodos na bancada.
 
 ## Armazena com rapidez e método
 
-Refrigera alimentos perecíveis e refeições prontas sem demora. A Anvisa recomenda manter alimentos preparados refrigerados abaixo de 5 °C quando não forem consumidos imediatamente; alimentos quentes em serviço devem permanecer adequadamente aquecidos. Divide grandes volumes em recipientes rasos para acelerar o arrefecimento e evita deixar arroz cozido durante horas à temperatura ambiente.
+Refrigere alimentos perecíveis e refeições prontas sem demora. A Anvisa recomenda manter alimentos preparados refrigerados abaixo de 5 °C quando não forem consumidos imediatamente; alimentos quentes em serviço devem permanecer adequadamente aquecidos. Divide grandes volumes em recipientes rasos para acelerar o arrefecimento e evita deixar arroz cozido durante horas à temperatura ambiente.
 
-Para descongelar, usa o frigorífico ou o micro-ondas seguido de cozedura imediata; não descongeles carne crua sobre a bancada.
+Para descongelar, usa o geladeira ou o micro-ondas seguido de cozimento imediata; não descongeles carne crua sobre a bancada.
 
 ## Atenção às receitas com peixe cru
 
-Sushi e sashimi exigem conhecimento específico de qualidade do pescado, cadeia de frio, riscos parasitários e regras sanitárias. Não confundas peixe comprado como “fresco” com peixe automaticamente adequado para consumo cru. O nosso conteúdo introdutório deve privilegiar versões cozidas até validação profissional das preparações cruas.
+Sushi e sashimi exigem conhecimento específico de qualidade do pescado, cadeia de frio, riscos parasitários e regras sanitárias. Não confunda peixe comprado como “fresco” com peixe automaticamente adequado para consumo cru. O nosso conteúdo introdutório deve privilegiar versões cozidas até validação profissional das preparações cruas.
 
 ## Pessoas com maior vulnerabilidade
 
-Gestantes, crianças pequenas, idosos e pessoas imunocomprometidas podem precisar de evitar preparações com ovo, carne ou pescado crus ou malcozidos. Em caso de alergia, verifica rótulos e possível contaminação cruzada — uma substituição não garante ausência de alergénios.
+Gestantes, crianças pequenas, idosos e pessoas imunocomprometidas podem precisar de evitar preparações com ovo, carne ou pescado crus ou malcozidos. Em caso de alergia, verifique rótulos e possível contaminação cruzada — uma substituição não garante ausência de alergénios.
 
 ## Fontes públicas a rever na homologação
 

@@ -15,7 +15,7 @@ review_required: true
 
 # Mise en place: a técnica simples que deixa qualquer receita mais tranquila
 
-Quando uma receita pede alho picado, água fervente e um ingrediente que precisa sair do frigorífico, o problema raramente é a dificuldade do prato. É a sequência de decisões que ainda não tomámos. A expressão francesa *mise en place* significa, numa tradução prática, deixar tudo no seu lugar antes de começar. Não é uma cerimónia de cozinha profissional: é uma forma de cozinhar com menos interrupções.
+Quando uma receita pede alho picado, água fervente e um ingrediente que precisa sair do geladeira, o problema raramente é a dificuldade do prato. É a sequência de decisões que ainda não tomámos. A expressão francesa *mise en place* significa, numa tradução prática, deixar tudo no seu lugar antes de começar. Não é uma cerimónia de cozinha profissional: é uma forma de cozinhar com menos interrupções.
 
 ## Comece pela leitura inteira
 
@@ -27,7 +27,7 @@ Uma boa regra doméstica é agrupar as ações por tempo: primeiro o que demora 
 
 **Preparação:** ingredientes lavados e secos, tábua estável, faca adequada e recipientes para resíduos.
 
-**Cozedura:** frigideira ou panela correta, utensílio para mexer e local seguro para pousar objetos quentes.
+**Cozedura:** frigideira ou panela correta, utensílio para mexer e local seguro para apoiar objetos quentes.
 
 **Finalização:** pratos, ervas, queijo, molho e a superfície onde a comida será servida.
 
@@ -45,7 +45,7 @@ Coloque a água a aquecer primeiro. Enquanto aquece, pique alho e tomate, separe
 
 ## Uma cozinha eficiente não precisa ser perfeita
 
-O objetivo da *mise en place* não é transformar o jantar numa produção de restaurante. É libertar atenção para perceber aromas, ajustar sal, evitar que algo queime e desfrutar da preparação. No início, experimente a técnica numa única receita. Com a repetição, a organização fica quase automática.
+O objetivo da *mise en place* não é transformar o jantar numa produção de restaurante. É liberar atenção para perceber aromas, ajustar sal, evitar que algo queime e desfrutar da preparação. No início, experimente a técnica numa única receita. Com a repetição, a organização fica quase automática.
 
 **Para guardar:** leia, separe, agrupe e só então aqueça. A bancada pode ser pequena; a sequência pode ser boa.
 
