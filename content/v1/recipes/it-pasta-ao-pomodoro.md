@@ -36,10 +36,10 @@ media_status: "pending"
 - Queijo parmesão para servir (opcional)
 
 ## Modo de preparo
-1. Coloque uma panela grande de água no fogo; salgue quando levantar fervura.
+1. Coloque uma panela grande de água no fogo; adicione sal quando levantar fervura.
 2. Aqueça o azeite numa frigideira, doure levemente o alho sem o queimar e refogue a cebola, se utilizar.
 3. Adicione o tomate e cozinhe em fogo médio-baixo por 15 minutos, até o molho engrossar. Tempere.
-4. Cozinhe a massa seguindo o tempo da embalagem e reserve uma chávena da água do cozimento.
+4. Cozinhe a massa seguindo o tempo da embalagem e reserve uma xícara da água do cozimento.
 5. Misture a massa escorrida com o molho, junte pequenas quantidades da água reservada até envolver bem e finalize com manjericão.
 
 ## Dicas e adaptações
