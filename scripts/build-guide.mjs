@@ -8,7 +8,7 @@ const mainBody=(s)=>{
   if(cut<0) throw new Error('Missing frontmatter terminator');
   return s.slice(cut+5).trim().replace(/^# .+?\n\n/,'').split('## Nota editorial e segurança')[0].trim().replace(/^## /gm,'### ');
 };
-const preamble=\`---
+const preamble=`---
 schema: "rsp-source-v0.1"
 id: "guia-gratuito-7-jantares-do-mundo"
 project: "receitassempassaporte"
@@ -29,7 +29,7 @@ kitchen_tested: false
 
 *Uma viagem de sabores com ingredientes possíveis. Edição gratuita para leitura digital.*
 
-\`;
+`;
 let result=preamble+assembly.intro+'\n';
 for(const c of assembly.chapters){
  const source=read('content/v1/recipes/'+c.recipe_ref+'.md');

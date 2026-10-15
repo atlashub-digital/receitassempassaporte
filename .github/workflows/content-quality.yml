@@ -1,0 +1,22 @@
+name: Editorial content checks
+
+on:
+  pull_request:
+    paths:
+      - 'content/**'
+      - 'scripts/**'
+      - '.github/workflows/content-quality.yml'
+  workflow_dispatch:
+
+jobs:
+  editorial-source-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate source-pack references
+        run: node scripts/validate-source-pack.mjs
+      - name: Check guide against recipe sources
+        run: node scripts/build-guide.mjs --check
