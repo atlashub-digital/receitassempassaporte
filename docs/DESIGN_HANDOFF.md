@@ -2,6 +2,8 @@
 
 A maquete fornecida em 2026-10-14 é o visual de referência e não deve ser substituída por tema genérico.
 
+**Visual master acessível no Drive:** https://docs.google.com/document/d/1Gw_s8bmst7pOFebpG11L2EYvpE-CCglQyDOMB24F7cA/edit (imagem embutida do ficheiro original `RCP_Maquete_WebPage.png`, 1448×1086).
+
 ## Hierarquia visual observada
 
 1. Navegação compacta com logótipo, Receitas, Destinos, Produtos, Sobre, Comunidade, pesquisa e Entrar.

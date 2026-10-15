@@ -5,7 +5,7 @@
 - **Repositório:** https://github.com/atlashub-digital/receitassempassaporte
 - **Drive de trabalho:** https://drive.google.com/drive/folders/1zPPOFI6kKpUE1gqt1GloDm2LbzauFBEE
 - **YouTube:** https://www.youtube.com/@ReceitasSemFronteira
-- **Referência visual:** imagem fornecida `RCP_Maquete_WebPage.png`, maquete desktop/mobile. Implementação visual futura deve respeitá-la.
+- **Referência visual:** [maquete desktop/mobile aprovada com imagem embutida no Drive](https://docs.google.com/document/d/1Gw_s8bmst7pOFebpG11L2EYvpE-CCglQyDOMB24F7cA/edit), originalmente `RCP_Maquete_WebPage.png`. Implementação visual futura deve respeitá-la.
 
 ## Lote V1
 
