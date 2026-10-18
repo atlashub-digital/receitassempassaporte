@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 const base=path.join(process.cwd(),'content','v1');
-export type Entry={id:string;slug:string;title:string;country:string;minutes:number;servings:number;difficulty:string;tags:string[];body:string;type:string;status:string;};
+export type Entry={id:string;slug:string;title:string;country:string;region?:string;minutes:number;servings:number;difficulty:string;tags:string[];body:string;type:string;status:string;};
 function parse(dir:string,file:string):Entry{
  const raw=fs.readFileSync(path.join(base,dir,file),'utf8');
  const end=raw.indexOf('\n---\n',4);
@@ -12,7 +12,7 @@ function parse(dir:string,file:string):Entry{
   const name=line.slice(0,i).trim(),val=line.slice(i+1).trim();
   try{attrs[name]=JSON.parse(val)}catch{attrs[name]=val}
  }
- return {id:String(attrs.id),slug:file.slice(0,-3),title:String(attrs.title),country:String(attrs.country||''),minutes:Number(attrs.minutes||0),servings:Number(attrs.servings||0),difficulty:String(attrs.difficulty||''),tags:Array.isArray(attrs.tags)?attrs.tags as string[]:[],body:raw.slice(end+5).trim(),type:String(attrs.type),status:String(attrs.status)};
+ return {id:String(attrs.id),slug:file.slice(0,-3),title:String(attrs.title),country:String(attrs.country||''),region:String(attrs.region||''),minutes:Number(attrs.minutes||0),servings:Number(attrs.servings||0),difficulty:String(attrs.difficulty||''),tags:Array.isArray(attrs.tags)?attrs.tags as string[]:[],body:raw.slice(end+5).trim(),type:String(attrs.type),status:String(attrs.status)};
 }
 function group(name:string){return fs.readdirSync(path.join(base,name)).filter(x=>x.endsWith('.md')).map(x=>parse(name,x))}
 export function recipes(){return group('recipes')}
