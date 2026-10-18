@@ -1,0 +1,9 @@
+import {notFound} from 'next/navigation';
+import Link from 'next/link';
+import ReactMarkdown from 'react-markdown';
+import {recipes,recipe,photo} from '@/lib/content';
+export function generateStaticParams(){return recipes().map(x=>({slug:x.slug}))}
+export default async function RecipePage({params}:{params:Promise<{slug:string}>}){
+ const {slug}=await params;const item=recipe(slug);if(!item)notFound();
+ return <><section className="page-hero"><div className="container"><div className="eyebrow"><Link href="/receitas">← Todas as receitas</Link> · {item.country}</div><h1>{item.title}</h1><p>{item.region||'Uma viagem de sabores para preparar em casa.'}</p><div className="meta"><span>◷ {item.minutes} minutos</span><span>♧ {item.servings} porções</span><span>✧ {item.difficulty}</span></div></div></section><div className="container article-wrap"><article className="article-main"><img src={photo(item.slug)} alt="Imagem gastronômica ilustrativa da categoria; não representa a receita testada"/><div className="notice">Receita em desenvolvimento editorial e ainda não testada em cozinha. A fotografia é ilustrativa, não uma imagem validada do prato.</div><div className="prose"><ReactMarkdown>{item.body}</ReactMarkdown></div></article><aside className="sidebar"><span className="eyebrow">Passaporte culinário</span><h3>{item.country}</h3><p>Uma receita para experimentar novos ingredientes e técnicas de diferentes tradições.</p><Link href="/receitas" className="button outline small">Outras receitas →</Link><hr style={{border:'0',borderTop:'1px solid var(--line)',margin:'25px 0'}}/><h3>Quer viajar mais?</h3><p>Conheça o nosso guia gratuito com sete jantares do mundo.</p><Link href="/guia/7-jantares-do-mundo" className="inline-link">Abrir o guia →</Link></aside></div></>;
+}

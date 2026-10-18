@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import type {Entry} from '@/lib/content';
+import {photo} from '@/lib/content';
+export function RecipeCard({item}:{item:Entry}){return <Link className="card" href={'/receitas/'+item.slug}><div className="card-photo" style={{backgroundImage:'url('+photo(item.slug)+')'}}><span className="pill">{item.country||'Mundo'}</span></div><div className="card-body"><span className="tag">{item.country}</span><h3>{item.title}</h3><p>Uma viagem à sua cozinha, com ingredientes acessíveis.</p><div className="meta"><span>◷ {item.minutes} min</span><span>♧ {item.difficulty||'Fácil'}</span></div></div></Link>}

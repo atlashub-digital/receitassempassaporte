@@ -1,0 +1,7 @@
+import Link from 'next/link';
+import {recipes} from '@/lib/content';
+import {RecipeCard} from '@/components/recipe-card';
+export default function Recipes({searchParams}:{searchParams:Promise<{pais?:string}>}){
+ const list=recipes();
+ return <><section className="page-hero"><div className="container"><span className="eyebrow">Nossa biblioteca aberta</span><h1>Receitas do Mundo</h1><p>Explore pratos inspirados em diferentes culturas: ingredientes acessíveis, técnicas e novas ideias para sua cozinha.</p></div></section><div className="container section"><div className="section-head"><h2>Descubra um novo sabor</h2><span className="muted">{list.length} receitas em preparação editorial</span></div><div className="filter-row"><Link className="filter active" href="/receitas">Todas</Link><Link className="filter" href="/destinos/brasil">Brasil</Link><Link className="filter" href="/destinos/italia">Itália</Link><Link className="filter" href="/destinos/japao">Japão</Link><Link className="filter" href="/destinos/mundo">Mundo</Link></div><div className="listing">{list.map(item=><RecipeCard item={item} key={item.id}/>)}</div><p className="notice">As receitas são masters editoriais em desenvolvimento e aguardam testes práticos. Imagens de referência serão substituídas por media originais aprovados.</p></div></>;
+}

@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import {articles} from '@/lib/content';
+export const metadata={title:'Dicas e técnicas'};
+export default function Tips(){const list=articles();return <><section className="page-hero"><div className="container"><span className="eyebrow">Aprender a cozinhar</span><h1>Truques, técnicas e descobertas</h1><p>Pequenas ideias para cozinhar com mais segurança, organização e prazer.</p></div></section><div className="container section"><div className="listing">{list.map(a=><article key={a.slug} className="store-card"><div className="store-body"><span className="tag">Guia prático</span><h3>{a.title}</h3><p>Conteúdo informativo da nossa biblioteca editorial.</p><Link className="button small outline" href={'/artigos/'+a.slug}>Ler artigo →</Link></div></article>)}</div></div></>}
