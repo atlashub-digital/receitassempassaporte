@@ -1,0 +1,943 @@
+{
+ "curso": "O Guia do Sushi em Casa",
+ "autor": "Fê Mendes",
+ "fonte_local": "/srv/atlas/atlas-ops/projects/curso-sushi",
+ "hls_base": "/hls/",
+ "total_videos": 114,
+ "modulos": [
+  {
+   "ordem": 1,
+   "nome": "COMECE AQUI",
+   "num_videos": 1,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F001",
+     "ficheiro": "F001.mp4",
+     "titulo": "Batendo um papo",
+     "parte": "1. Batendo um papo",
+     "tamanho_MB": 215.7
+    }
+   ]
+  },
+  {
+   "ordem": 2,
+   "nome": "1 UTENSÍLIOS",
+   "num_videos": 12,
+   "pdf": "O-Guia-do-Sushi-em-Casa.pdf",
+   "aulas": [
+    {
+     "video": "F002",
+     "ficheiro": "F002.mp4",
+     "titulo": "Aula 1 - Introdução",
+     "parte": "1. Aula 1 - Introdução",
+     "tamanho_MB": 21.7
+    },
+    {
+     "video": "F003",
+     "ficheiro": "F003.mp4",
+     "titulo": "Aula 2 - Makisu",
+     "parte": "2. Aula 2 - Makisu",
+     "tamanho_MB": 138.6
+    },
+    {
+     "video": "F004",
+     "ficheiro": "F004.mp4",
+     "titulo": "Aula 3 - Facas (hocho)",
+     "parte": "3. Aula 3 - Facas (hocho)",
+     "tamanho_MB": 194.0
+    },
+    {
+     "video": "F005",
+     "ficheiro": "F005.mp4",
+     "titulo": "Aula 4 - Handai e Miyajima",
+     "parte": "4. Aula 4 - Handai e Miyajima",
+     "tamanho_MB": 68.7
+    },
+    {
+     "video": "F006",
+     "ficheiro": "F006.mp4",
+     "titulo": "Aula 5 - Panelas",
+     "parte": "5. Aula 5 - Panelas",
+     "tamanho_MB": 81.8
+    },
+    {
+     "video": "F007",
+     "ficheiro": "F007.mp4",
+     "titulo": "Aula 6 - Moedor de gergelim",
+     "parte": "6. Aula 6 - Moedor de gergelim",
+     "tamanho_MB": 32.4
+    },
+    {
+     "video": "F008",
+     "ficheiro": "F008.mp4",
+     "titulo": "Aula 7 - Benriner",
+     "parte": "7. Aula 7 - Benriner",
+     "tamanho_MB": 44.5
+    },
+    {
+     "video": "F009",
+     "ficheiro": "F009.mp4",
+     "titulo": "Aula 8 - Cerâmicas",
+     "parte": "8. Aula 8 - Cerâmicas",
+     "tamanho_MB": 48.1
+    },
+    {
+     "video": "F010",
+     "ficheiro": "F010.mp4",
+     "titulo": "Aula 9 - Fukin",
+     "parte": "9. Aula 9 - Fukin",
+     "tamanho_MB": 46.2
+    },
+    {
+     "video": "F011",
+     "ficheiro": "F011.mp4",
+     "titulo": "Aula 10 - Tábua",
+     "parte": "10. Aula 10 - Tábua",
+     "tamanho_MB": 54.1
+    },
+    {
+     "video": "F012",
+     "ficheiro": "F012.mp4",
+     "titulo": "Aula 11 - Noribox (noribako)",
+     "parte": "11. Aula 11 - Noribox (noribako)",
+     "tamanho_MB": 26.1
+    },
+    {
+     "video": "F013",
+     "ficheiro": "F013.mp4",
+     "titulo": "Aula 12 - Outros",
+     "parte": "12. Aula 12 - Outros",
+     "tamanho_MB": 34.8
+    }
+   ]
+  },
+  {
+   "ordem": 3,
+   "nome": "2 INGREDIENTES",
+   "num_videos": 14,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F014",
+     "ficheiro": "F014.mp4",
+     "titulo": "Aula 14 - Introdução",
+     "parte": "1. Aula 14 - Introdução",
+     "tamanho_MB": 23.8
+    },
+    {
+     "video": "F015",
+     "ficheiro": "F015.mp4",
+     "titulo": "Aula 15 - Arroz",
+     "parte": "2. Aula 15 - Arroz",
+     "tamanho_MB": 127.8
+    },
+    {
+     "video": "F016",
+     "ficheiro": "F016.mp4",
+     "titulo": "Aula 16 - Vinagre",
+     "parte": "3. Aula 16 - Vinagre",
+     "tamanho_MB": 151.1
+    },
+    {
+     "video": "F017",
+     "ficheiro": "F017.mp4",
+     "titulo": "Aula 17 - Mirin",
+     "parte": "4. Aula 17 - Mirin",
+     "tamanho_MB": 46.5
+    },
+    {
+     "video": "F018",
+     "ficheiro": "F018.mp4",
+     "titulo": "Aula 18 - Saquê",
+     "parte": "5. Aula 18 - Saquê",
+     "tamanho_MB": 51.1
+    },
+    {
+     "video": "F019",
+     "ficheiro": "F019.mp4",
+     "titulo": "Aula 19 - Alga Nori",
+     "parte": "6. Aula 19 - Alga Nori",
+     "tamanho_MB": 154.0
+    },
+    {
+     "video": "F020",
+     "ficheiro": "F020.mp4",
+     "titulo": "Aula 20 - Alga Kombu",
+     "parte": "7. Aula 20 - Alga Kombu",
+     "tamanho_MB": 34.6
+    },
+    {
+     "video": "F021",
+     "ficheiro": "F021.mp4",
+     "titulo": "Aula 21 - Shoyu",
+     "parte": "8. Aula 21 - Shoyu",
+     "tamanho_MB": 78.0
+    },
+    {
+     "video": "F022",
+     "ficheiro": "F022.mp4",
+     "titulo": "Aula 22 - Katsuobushi",
+     "parte": "9. Aula 22 - Katsuobushi",
+     "tamanho_MB": 58.5
+    },
+    {
+     "video": "F023",
+     "ficheiro": "F023.mp4",
+     "titulo": "Aula 23 - Wasabi",
+     "parte": "10. Aula 23 - Wasabi",
+     "tamanho_MB": 36.6
+    },
+    {
+     "video": "F024",
+     "ficheiro": "F024.mp4",
+     "titulo": "Aula 24 - Nabo e Pepino",
+     "parte": "11. Aula 24 - Nabo e Pepino",
+     "tamanho_MB": 42.6
+    },
+    {
+     "video": "F025",
+     "ficheiro": "F025.mp4",
+     "titulo": "Aula 25 - Gengibre",
+     "parte": "12. Aula 25 - Gengibre",
+     "tamanho_MB": 59.5
+    },
+    {
+     "video": "F026",
+     "ficheiro": "F026.mp4",
+     "titulo": "Aula 26 - Pescados",
+     "parte": "13. Aula 26 - Pescados",
+     "tamanho_MB": 72.6
+    },
+    {
+     "video": "F027",
+     "ficheiro": "F027.mp4",
+     "titulo": "Aula 27 - Outros Ingredientes",
+     "parte": "14. Aula 27 - Outros Ingredientes",
+     "tamanho_MB": 53.9
+    }
+   ]
+  },
+  {
+   "ordem": 4,
+   "nome": "3 PREPAROS INICIAIS",
+   "num_videos": 4,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F028",
+     "ficheiro": "F028.mp4",
+     "titulo": "Aula 29 - Nabo em Tirinhas (katsuramuki)",
+     "parte": "1. Aula 29 - Nabo em Tirinhas (katsuramuki)",
+     "tamanho_MB": 223.1
+    },
+    {
+     "video": "F029",
+     "ficheiro": "F029.mp4",
+     "titulo": "Aula 30 - Gergelim (iri-goma)",
+     "parte": "2. Aula 30 - Gergelim (iri-goma)",
+     "tamanho_MB": 154.7
+    },
+    {
+     "video": "F030",
+     "ficheiro": "F030.mp4",
+     "titulo": "Aula 31 - Dashi",
+     "parte": "3. Aula 31 - Dashi",
+     "tamanho_MB": 118.3
+    },
+    {
+     "video": "F031",
+     "ficheiro": "F031.mp4",
+     "titulo": "Aula 32 - Gengibre em Conserva (gari)",
+     "parte": "4. Aula 32 - Gengibre em Conserva (gari)",
+     "tamanho_MB": 396.3
+    }
+   ]
+  },
+  {
+   "ordem": 5,
+   "nome": "4 MOLHOS",
+   "num_videos": 9,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F032",
+     "ficheiro": "F032.mp4",
+     "titulo": "Aula 34 - Tare  Teriyaki",
+     "parte": "1. Aula 34 - Tare  Teriyaki",
+     "tamanho_MB": 248.1
+    },
+    {
+     "video": "F033",
+     "ficheiro": "F033.mp4",
+     "titulo": "Aula 35 - Ponzu",
+     "parte": "2. Aula 35 - Ponzu",
+     "tamanho_MB": 147.8
+    },
+    {
+     "video": "F034",
+     "ficheiro": "F034.mp4",
+     "titulo": "Aula 36 - Shoyu Temperado",
+     "parte": "3. Aula 36 - Shoyu Temperado",
+     "tamanho_MB": 203.1
+    },
+    {
+     "video": "F035",
+     "ficheiro": "F035.mp4",
+     "titulo": "Aula 37 - Molho Nikiri",
+     "parte": "4. Aula 37 - Molho Nikiri",
+     "tamanho_MB": 133.0
+    },
+    {
+     "video": "F036",
+     "ficheiro": "F036.mp4",
+     "titulo": "Aula 38 - Tentsuyu",
+     "parte": "5. Aula 38 - Tentsuyu",
+     "tamanho_MB": 76.3
+    },
+    {
+     "video": "F037",
+     "ficheiro": "F037.mp4",
+     "titulo": "Aula 39 - Molho de Maracujá",
+     "parte": "6. Aula 39 - Molho de Maracujá",
+     "tamanho_MB": 240.8
+    },
+    {
+     "video": "F038",
+     "ficheiro": "F038.mp4",
+     "titulo": "Aula 40 - Molho Agridoce",
+     "parte": "7. Aula 40 - Molho Agridoce",
+     "tamanho_MB": 181.9
+    },
+    {
+     "video": "F039",
+     "ficheiro": "F039.mp4",
+     "titulo": "MASTERCLASS 01 - Parte I",
+     "parte": "9. MASTERCLASS 01 - Parte I",
+     "tamanho_MB": 249.5
+    },
+    {
+     "video": "F040",
+     "ficheiro": "F040.mp4",
+     "titulo": "MASTERCLASS 02 - Parte II",
+     "parte": "10. MASTERCLASS 02 - Parte II",
+     "tamanho_MB": 255.8
+    }
+   ]
+  },
+  {
+   "ordem": 6,
+   "nome": "5 SHARI - ARROZ PRA SUSHI",
+   "num_videos": 6,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F041",
+     "ficheiro": "F041.mp4",
+     "titulo": "Aula 42 - A Base",
+     "parte": "1. Aula 42 - A Base",
+     "tamanho_MB": 62.9
+    },
+    {
+     "video": "F042",
+     "ficheiro": "F042.mp4",
+     "titulo": "Aula 43 - Molho Su (Awasezu)",
+     "parte": "2. Aula 43 - Molho Su (Awasezu)",
+     "tamanho_MB": 326.1
+    },
+    {
+     "video": "F043",
+     "ficheiro": "F043.mp4",
+     "titulo": "Aula 44 - Arroz no Fogão - Parte I",
+     "parte": "3. Aula 44 - Arroz no Fogão - Parte I",
+     "tamanho_MB": 549.5
+    },
+    {
+     "video": "F044",
+     "ficheiro": "F044.mp4",
+     "titulo": "Aula 45 - Arroz no Fogão - Parte II",
+     "parte": "4. Aula 45 - Arroz no Fogão - Parte II",
+     "tamanho_MB": 550.1
+    },
+    {
+     "video": "F045",
+     "ficheiro": "F045.mp4",
+     "titulo": "Aula 46 - Arroz na Panela Elétrica",
+     "parte": "5. Aula 46 - Arroz na Panela Elétrica",
+     "tamanho_MB": 376.3
+    },
+    {
+     "video": "F046",
+     "ficheiro": "F046.mp4",
+     "titulo": "MASTERCLASS 02",
+     "parte": "7. MASTERCLASS 02",
+     "tamanho_MB": 465.5
+    }
+   ]
+  },
+  {
+   "ordem": 7,
+   "nome": "6 SEGURANÇA E MANIPULAÇÃO DE PEIXES E FRUTOS DO MAR",
+   "num_videos": 18,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F047",
+     "ficheiro": "F047.mp4",
+     "titulo": "Aula 48 - Intr",
+     "parte": "1. Aula 48 - Intr",
+     "tamanho_MB": 21.0
+    },
+    {
+     "video": "F048",
+     "ficheiro": "F048.mp4",
+     "titulo": "Aula 49 - Higi",
+     "parte": "2. Aula 49 - Higi",
+     "tamanho_MB": 213.9
+    },
+    {
+     "video": "F049",
+     "ficheiro": "F049.mp4",
+     "titulo": "Aula 50 - Peix",
+     "parte": "3. Aula 50 - Peix",
+     "tamanho_MB": 81.7
+    },
+    {
+     "video": "F050",
+     "ficheiro": "F050.mp4",
+     "titulo": "Aula 51 - Como",
+     "parte": "4. Aula 51 - Como",
+     "tamanho_MB": 99.5
+    },
+    {
+     "video": "F051",
+     "ficheiro": "F051.mp4",
+     "titulo": "Aula 52 - File",
+     "parte": "5. Aula 52 - File",
+     "tamanho_MB": 394.9
+    },
+    {
+     "video": "F052",
+     "ficheiro": "F052.mp4",
+     "titulo": "Aula 53 - File",
+     "parte": "6. Aula 53 - File",
+     "tamanho_MB": 491.9
+    },
+    {
+     "video": "F053",
+     "ficheiro": "F053.mp4",
+     "titulo": "Aula 54 - Cons",
+     "parte": "7. Aula 54 - Cons",
+     "tamanho_MB": 235.7
+    },
+    {
+     "video": "F054",
+     "ficheiro": "F054.mp4",
+     "titulo": "Aula 55 - File",
+     "parte": "8. Aula 55 - File",
+     "tamanho_MB": 302.5
+    },
+    {
+     "video": "F055",
+     "ficheiro": "F055.mp4",
+     "titulo": "Aula 56 - File",
+     "parte": "9. Aula 56 - File",
+     "tamanho_MB": 267.8
+    },
+    {
+     "video": "F056",
+     "ficheiro": "F056.mp4",
+     "titulo": "Aula 57 - Fat",
+     "parte": "10. Aula 57 - Fat",
+     "tamanho_MB": 155.4
+    },
+    {
+     "video": "F057",
+     "ficheiro": "F057.mp4",
+     "titulo": "Aula 58 - Fat",
+     "parte": "11. Aula 58 - Fat",
+     "tamanho_MB": 97.3
+    },
+    {
+     "video": "F058",
+     "ficheiro": "F058.mp4",
+     "titulo": "Aula 59 - Fat",
+     "parte": "12. Aula 59 - Fat",
+     "tamanho_MB": 208.3
+    },
+    {
+     "video": "F059",
+     "ficheiro": "F059.mp4",
+     "titulo": "Aula 60 - Cam",
+     "parte": "13. Aula 60 - Cam",
+     "tamanho_MB": 356.4
+    },
+    {
+     "video": "F060",
+     "ficheiro": "F060.mp4",
+     "titulo": "Aula 61 - Cam",
+     "parte": "14. Aula 61 - Cam",
+     "tamanho_MB": 398.5
+    },
+    {
+     "video": "F061",
+     "ficheiro": "F061.mp4",
+     "titulo": "Aula 62 - Pol",
+     "parte": "15. Aula 62 - Pol",
+     "tamanho_MB": 274.1
+    },
+    {
+     "video": "F062",
+     "ficheiro": "F062.mp4",
+     "titulo": "Aula 63 - Pol",
+     "parte": "16. Aula 63 - Pol",
+     "tamanho_MB": 230.6
+    },
+    {
+     "video": "F063",
+     "ficheiro": "F063.mp4",
+     "titulo": "Aula 64 - Téc",
+     "parte": "17. Aula 64 - Téc",
+     "tamanho_MB": 47.7
+    },
+    {
+     "video": "F064",
+     "ficheiro": "F064.mp4",
+     "titulo": "MASTERCLASS 0",
+     "parte": "19. MASTERCLASS 0",
+     "tamanho_MB": 507.5
+    }
+   ]
+  },
+  {
+   "ordem": 8,
+   "nome": "7 INTRODUÇÃO AO SUSHI",
+   "num_videos": 3,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F065",
+     "ficheiro": "F065.mp4",
+     "titulo": "Aula 66 - Introdução ao Sushi",
+     "parte": "1. Aula 66 - Introdução ao Sushi",
+     "tamanho_MB": 95.6
+    },
+    {
+     "video": "F066",
+     "ficheiro": "F066.mp4",
+     "titulo": "Aula 67 - Preparando a Bancada e a Alga Nori",
+     "parte": "2. Aula 67 - Preparando a Bancada e a Alga Nori",
+     "tamanho_MB": 147.4
+    },
+    {
+     "video": "F067",
+     "ficheiro": "F067.mp4",
+     "titulo": "Aula 68 - Manuseio do Shari",
+     "parte": "3. Aula 68 - Manuseio do Shari",
+     "tamanho_MB": 162.2
+    }
+   ]
+  },
+  {
+   "ordem": 9,
+   "nome": "8 HOSOMAKI",
+   "num_videos": 7,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F068",
+     "ficheiro": "F068.mp4",
+     "titulo": "Aula 70 - Hosomaki de Atum (Tekkamaki)",
+     "parte": "1. Aula 70 - Hosomaki de Atum (Tekkamaki)",
+     "tamanho_MB": 278.2
+    },
+    {
+     "video": "F069",
+     "ficheiro": "F069.mp4",
+     "titulo": "Aula 71 -Hosomaki de Salmão (Sakemaki)",
+     "parte": "2. Aula 71 -Hosomaki de Salmão (Sakemaki)",
+     "tamanho_MB": 46.6
+    },
+    {
+     "video": "F070",
+     "ficheiro": "F070.mp4",
+     "titulo": "Aula 72 - Hosomaki de Camarão (Ebimaki)",
+     "parte": "3. Aula 72 - Hosomaki de Camarão (Ebimaki)",
+     "tamanho_MB": 126.3
+    },
+    {
+     "video": "F071",
+     "ficheiro": "F071.mp4",
+     "titulo": "Aula 73 - Hosomaki de Pepino (Kappamaki)",
+     "parte": "4. Aula 73 - Hosomaki de Pepino (Kappamaki)",
+     "tamanho_MB": 222.7
+    },
+    {
+     "video": "F072",
+     "ficheiro": "F072.mp4",
+     "titulo": "Aula 74 - Como Cortar Hosomaki",
+     "parte": "5. Aula 74 - Como Cortar Hosomaki",
+     "tamanho_MB": 392.5
+    },
+    {
+     "video": "F073",
+     "ficheiro": "F073.mp4",
+     "titulo": "Aula 75 - Como Comer Hosomaki",
+     "parte": "6. Aula 75 - Como Comer Hosomaki",
+     "tamanho_MB": 75.3
+    },
+    {
+     "video": "F074",
+     "ficheiro": "F074.mp4",
+     "titulo": "MASTERCLASS 04",
+     "parte": "8. MASTERCLASS 04",
+     "tamanho_MB": 738.5
+    }
+   ]
+  },
+  {
+   "ordem": 10,
+   "nome": "9 URAMAKI",
+   "num_videos": 7,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F075",
+     "ficheiro": "F075.mp4",
+     "titulo": "Aula 77 - Uramaki Filadélfia",
+     "parte": "1. Aula 77 - Uramaki Filadélfia",
+     "tamanho_MB": 308.6
+    },
+    {
+     "video": "F076",
+     "ficheiro": "F076.mp4",
+     "titulo": "Aula 78 - Uramaki Atum Filadélfia",
+     "parte": "2. Aula 78 - Uramaki Atum Filadélfia",
+     "tamanho_MB": 146.6
+    },
+    {
+     "video": "F077",
+     "ficheiro": "F077.mp4",
+     "titulo": "Aula 79 - Como Cortar Uramaki",
+     "parte": "3. Aula 79 - Como Cortar Uramaki",
+     "tamanho_MB": 156.3
+    },
+    {
+     "video": "F078",
+     "ficheiro": "F078.mp4",
+     "titulo": "Aula 80 - Uramaki Skin",
+     "parte": "4. Aula 80 - Uramaki Skin",
+     "tamanho_MB": 510.3
+    },
+    {
+     "video": "F079",
+     "ficheiro": "F079.mp4",
+     "titulo": "Aula 81 - Uramaki Patezinho",
+     "parte": "5. Aula 81 - Uramaki Patezinho",
+     "tamanho_MB": 346.6
+    },
+    {
+     "video": "F080",
+     "ficheiro": "F080.mp4",
+     "titulo": "Aula 82 - Uramaki Especial",
+     "parte": "6. Aula 82 - Uramaki Especial",
+     "tamanho_MB": 455.7
+    },
+    {
+     "video": "F081",
+     "ficheiro": "F081.mp4",
+     "titulo": "MASTERCLASS 05",
+     "parte": "8. MASTERCLASS 05",
+     "tamanho_MB": 908.3
+    }
+   ]
+  },
+  {
+   "ordem": 11,
+   "nome": "10 NIGIRI",
+   "num_videos": 11,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F082",
+     "ficheiro": "F082.mp4",
+     "titulo": "Aula 84 - Cortes do Salmão",
+     "parte": "1. Aula 84 - Cortes do Salmão",
+     "tamanho_MB": 382.8
+    },
+    {
+     "video": "F083",
+     "ficheiro": "F083.mp4",
+     "titulo": "Aula 85 - Corte da Barriguinha do Salmão",
+     "parte": "2. Aula 85 - Corte da Barriguinha do Salmão",
+     "tamanho_MB": 154.2
+    },
+    {
+     "video": "F084",
+     "ficheiro": "F084.mp4",
+     "titulo": "Aula 86 - Corte do Atum",
+     "parte": "3. Aula 86 - Corte do Atum",
+     "tamanho_MB": 103.5
+    },
+    {
+     "video": "F085",
+     "ficheiro": "F085.mp4",
+     "titulo": "Aula 87 - Corte do Pargo",
+     "parte": "4. Aula 87 - Corte do Pargo",
+     "tamanho_MB": 82.6
+    },
+    {
+     "video": "F086",
+     "ficheiro": "F086.mp4",
+     "titulo": "Aula 88 - Corte do Polvo",
+     "parte": "5. Aula 88 - Corte do Polvo",
+     "tamanho_MB": 179.0
+    },
+    {
+     "video": "F087",
+     "ficheiro": "F087.mp4",
+     "titulo": "Aula 89 - Técnica de Montagem (Kotegaeshi)",
+     "parte": "6. Aula 89 - Técnica de Montagem (Kotegaeshi)",
+     "tamanho_MB": 392.1
+    },
+    {
+     "video": "F088",
+     "ficheiro": "F088.mp4",
+     "titulo": "Aula 90 - Técnica Fácil (Ocidental)",
+     "parte": "7. Aula 90 - Técnica Fácil (Ocidental)",
+     "tamanho_MB": 73.4
+    },
+    {
+     "video": "F089",
+     "ficheiro": "F089.mp4",
+     "titulo": "Aula 91 - Montando os Nigiris",
+     "parte": "8. Aula 91 - Montando os Nigiris",
+     "tamanho_MB": 307.8
+    },
+    {
+     "video": "F090",
+     "ficheiro": "F090.mp4",
+     "titulo": "Aula 92 - Nigiri de Barriga Trufada ( Maçaricado)",
+     "parte": "9. Aula 92 - Nigiri de Barriga Trufada ( Maçaricado)",
+     "tamanho_MB": 98.3
+    },
+    {
+     "video": "F091",
+     "ficheiro": "F091.mp4",
+     "titulo": "Aula 93 - Como Comer Nigiri",
+     "parte": "10. Aula 93 - Como Comer Nigiri",
+     "tamanho_MB": 118.4
+    },
+    {
+     "video": "F092",
+     "ficheiro": "F092.mp4",
+     "titulo": "MASTERCLASS 06",
+     "parte": "12. MASTERCLASS 06",
+     "tamanho_MB": 1967.1
+    }
+   ]
+  },
+  {
+   "ordem": 12,
+   "nome": "11 TEMAKI",
+   "num_videos": 2,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F093",
+     "ficheiro": "F093.mp4",
+     "titulo": "Aula 95 - A Técnica Completa",
+     "parte": "1. Aula 95 - A Técnica Completa",
+     "tamanho_MB": 339.4
+    },
+    {
+     "video": "F094",
+     "ficheiro": "F094.mp4",
+     "titulo": "MASTERCLASS 07",
+     "parte": "3. MASTERCLASS 07",
+     "tamanho_MB": 1595.2
+    }
+   ]
+  },
+  {
+   "ordem": 13,
+   "nome": "12 JOU E GUNKAN",
+   "num_videos": 3,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F095",
+     "ficheiro": "F095.mp4",
+     "titulo": "Aula 97 - Jou de Salmão",
+     "parte": "1. Aula 97 - Jou de Salmão",
+     "tamanho_MB": 251.8
+    },
+    {
+     "video": "F096",
+     "ficheiro": "F096.mp4",
+     "titulo": "Aula 98 - Gunkan Maki",
+     "parte": "2. Aula 98 - Gunkan Maki",
+     "tamanho_MB": 197.6
+    },
+    {
+     "video": "F097",
+     "ficheiro": "F097.mp4",
+     "titulo": "MASTERCLASS 08",
+     "parte": "4. MASTERCLASS 08",
+     "tamanho_MB": 1258.8
+    }
+   ]
+  },
+  {
+   "ordem": 14,
+   "nome": "13 HOT SUSHI",
+   "num_videos": 2,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F098",
+     "ficheiro": "F098.mp4",
+     "titulo": "Aula 100 - Hot Filadélfia Passo-a-passo",
+     "parte": "1. Aula 100 - Hot Filadélfia Passo-a-passo",
+     "tamanho_MB": 470.0
+    },
+    {
+     "video": "F099",
+     "ficheiro": "F099.mp4",
+     "titulo": "MASTERCLASS 09",
+     "parte": "3. MASTERCLASS 09",
+     "tamanho_MB": 988.9
+    }
+   ]
+  },
+  {
+   "ordem": 15,
+   "nome": "14 SASHIMI",
+   "num_videos": 3,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F100",
+     "ficheiro": "F100.mp4",
+     "titulo": "Aula 102 - Sashimi de Salmão",
+     "parte": "1. Aula 102 - Sashimi de Salmão",
+     "tamanho_MB": 493.2
+    },
+    {
+     "video": "F101",
+     "ficheiro": "F101.mp4",
+     "titulo": "Aula 103 - Sashimi de Atum",
+     "parte": "2. Aula 103 - Sashimi de Atum",
+     "tamanho_MB": 157.8
+    },
+    {
+     "video": "F102",
+     "ficheiro": "F102.mp4",
+     "titulo": "MASTERCLASS 10",
+     "parte": "4. MASTERCLASS 10",
+     "tamanho_MB": 1023.5
+    }
+   ]
+  },
+  {
+   "ordem": 16,
+   "nome": "15 ENTRADAS",
+   "num_videos": 4,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F103",
+     "ficheiro": "F103.mp4",
+     "titulo": "Aula 105 - Sunomono",
+     "parte": "1. Aula 105 - Sunomono",
+     "tamanho_MB": 221.1
+    },
+    {
+     "video": "F104",
+     "ficheiro": "F104.mp4",
+     "titulo": "Aula 106 - Carpaccio de Salmão",
+     "parte": "2. Aula 106 - Carpaccio de Salmão",
+     "tamanho_MB": 219.1
+    },
+    {
+     "video": "F105",
+     "ficheiro": "F105.mp4",
+     "titulo": "Aula 107 - Misoshiru",
+     "parte": "3. Aula 107 - Misoshiru",
+     "tamanho_MB": 201.3
+    },
+    {
+     "video": "F106",
+     "ficheiro": "F106.mp4",
+     "titulo": "MASTERCLASS 11",
+     "parte": "5. MASTERCLASS 11",
+     "tamanho_MB": 1042.8
+    }
+   ]
+  },
+  {
+   "ordem": 17,
+   "nome": "16 COLOCANDO EM PRÁTICA",
+   "num_videos": 8,
+   "pdf": null,
+   "aulas": [
+    {
+     "video": "F107",
+     "ficheiro": "F107.mp4",
+     "titulo": "Aula 109 - Abertura  Decidindo o Menu",
+     "parte": "1. Aula 109 - Abertura  Decidindo o Menu",
+     "tamanho_MB": 311.1
+    },
+    {
+     "video": "F108",
+     "ficheiro": "F108.mp4",
+     "titulo": "Aula 110 - Como calcular quantidades",
+     "parte": "2. Aula 110 - Como calcular quantidades",
+     "tamanho_MB": 152.8
+    },
+    {
+     "video": "F109",
+     "ficheiro": "F109.mp4",
+     "titulo": "Aula 111 - Indo às compras",
+     "parte": "3. Aula 111 - Indo às compras",
+     "tamanho_MB": 72.4
+    },
+    {
+     "video": "F110",
+     "ficheiro": "F110.mp4",
+     "titulo": "Aula 112 - Planejamento e organização",
+     "parte": "4. Aula 112 - Planejamento e organização",
+     "tamanho_MB": 48.9
+    },
+    {
+     "video": "F111",
+     "ficheiro": "F111.mp4",
+     "titulo": "Aula 113 - Pré-preparo",
+     "parte": "5. Aula 113 - Pré-preparo",
+     "tamanho_MB": 86.1
+    },
+    {
+     "video": "F112",
+     "ficheiro": "F112.mp4",
+     "titulo": "Aula 114 - Fazendo os Sushis",
+     "parte": "6. Aula 114 - Fazendo os Sushis",
+     "tamanho_MB": 58.1
+    },
+    {
+     "video": "F113",
+     "ficheiro": "F113.mp4",
+     "titulo": "Aula 115 - Empratamento",
+     "parte": "7. Aula 115 - Empratamento",
+     "tamanho_MB": 120.9
+    },
+    {
+     "video": "F114",
+     "ficheiro": "F114.mp4",
+     "titulo": "MASTERCLASS 12",
+     "parte": "9. MASTERCLASS 12",
+     "tamanho_MB": 145.7
+    }
+   ]
+  }
+ ]
+}

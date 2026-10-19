@@ -1,4 +1,32 @@
 import Link from 'next/link';
-export const metadata={title:'Academia — Estrutura do curso de sushi'};
-const modules=['Comece aqui','Utensílios','Ingredientes','Preparos iniciais','Molhos','Shari — o arroz','Segurança do pescado','Introdução ao sushi','Hosomaki','Uramaki','Nigiri','Temaki','Jou e Gunkan','Hot Sushi','Sashimi','Entradas','Colocando em prática'];
-export default function Sushi(){return <><section className="page-hero"><div className="container"><Link className="eyebrow" href="/academia">← Academia</Link><h1>O Guia do Sushi em Casa</h1><p>Prévia estrutural do sistema de cursos da plataforma. O projeto técnico descreve 17 módulos, 114 aulas HLS e apostilas, com media alojados na VPS.</p></div></section><div className="container section course-grid"><div><div className="video-box"><div style={{fontSize:'3rem'}}>▷</div><strong>WebPlayer HLS — acesso ainda não ativado</strong><span style={{fontSize:'.83rem',textAlign:'center',maxWidth:450}}>A autorização do aluno, o media-gateway e os segmentos protegidos terão de passar por testes antes de reproduzir conteúdos nesta aplicação.</span></div><h2 style={{marginTop:35}}>Uma formação, várias experiências</h2><p>O sistema suportará navegação entre aulas, player individual, comparação de vídeos e apostilas integradas. Nesta versão mostramos apenas a organização dos módulos, sem URLs de streaming públicas.</p><Link className="button outline" href="/biblioteca">Regressar à Biblioteca →</Link></div><aside className="sidebar"><span className="eyebrow">Estrutura do programa</span><h3>17 módulos · 114 aulas indicadas</h3><p style={{fontSize:'.8rem'}}>Os títulos dos módulos são uma proposta de organização baseada no arquivo de referência. A distribuição exata das 114 aulas será importada de <code>catalog.json</code>.</p>{modules.map((m,i)=><div className="module" key={m}><span className="tag">{String(i+1).padStart(2,'0')}</span><strong style={{marginLeft:8}}>{m}</strong><div style={{fontSize:'.76rem',color:'var(--muted)'}}>Aulas a sincronizar do catálogo</div></div>)}</aside></div></>}
+import catalogJson from '@/data/catalog-sushi.json';
+import type { CatalogCurso } from '@/data/catalog';
+
+const catalog: CatalogCurso = catalogJson;
+export const metadata = { title: 'Academia — Catálogo do curso de sushi' };
+
+export default function Sushi() {
+  return <>
+    <section className="page-hero"><div className="container">
+      <Link className="eyebrow" href="/academia">← Academia</Link>
+      <h1>{catalog.curso}</h1>
+      <p>Por {catalog.autor} · {catalog.modulos.length} módulos · {catalog.total_videos} aulas</p>
+      <p>Explore o programa do curso. O acesso às videoaulas está em preparação.</p>
+    </div></section>
+    <div className="container section">
+      <div className="store-grid">
+        {catalog.modulos.map((modulo) => <section className="module" key={modulo.ordem}>
+          <span className="eyebrow">Módulo {modulo.ordem}</span>
+          <h2 style={{ fontSize: '1.5rem' }}>{modulo.nome}</h2>
+          <p className="muted">{modulo.num_videos} aulas</p>
+          <ol style={{ paddingLeft: 22 }}>
+            {modulo.aulas.map((aula) => <li key={aula.video} value={Number.parseInt(aula.parte, 10)} style={{ marginBottom: 16 }}>
+              <p>{aula.titulo}</p>
+              <Link className="button small outline" href={`/academia/sushi/${aula.video}`} aria-label={`Assistir: ${aula.titulo}`}>Assistir</Link>
+            </li>)}
+          </ol>
+        </section>)}
+      </div>
+    </div>
+  </>;
+}
