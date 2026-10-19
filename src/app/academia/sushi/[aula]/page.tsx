@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import catalogJson from '@/data/catalog-sushi.json';
 import type { CatalogCurso } from '@/data/catalog';
-import AcessoAula from './acesso-aula';
+import AulaPlayer from '@/components/academia/aula-player';
 
 const catalog: CatalogCurso = catalogJson;
 
@@ -24,8 +24,7 @@ export default async function AulaPage({ params }: { params: Promise<{ aula: str
     </div></section>
     <div className="container section course-grid">
       <div>
-        <div className="video-box"><strong>player em integração</strong></div>
-        <div style={{ marginTop: 24 }}><AcessoAula video={aula.video} /></div>
+        <AulaPlayer aula={aula.video} title={aula.titulo} />
       </div>
       <aside className="sidebar" aria-label="Metadados da aula">
         <h2 style={{ fontSize: '1.5rem' }}>Sobre esta aula</h2>
